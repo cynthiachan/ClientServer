@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Author: Cynthia H. Chan
 
 # Echo server program
 import socket

@@ -1,4 +1,5 @@
-#Echo client program
+# Echo client program
+# Author: Cynthia H. Chan
 
 import socket
 import sys
